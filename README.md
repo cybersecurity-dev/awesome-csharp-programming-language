@@ -1,5 +1,5 @@
 <p align="center"><a href="https://dotnet.microsoft.com/languages/csharp">
-  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/CSharp.svg" />
+  <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/CSharp.svg" />
 </a></p>
 
 # Awesome [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) Programming [Language](https://www.reddit.com/r/CSharpBeginners/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
